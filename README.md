@@ -5,6 +5,7 @@
 - [ ] `@aeria-ui/web`
     - [ ] add `v-mask` directive (no longer available since `maska` dependency was dropped)
 
+---
 
 ## Tooling
 
@@ -20,6 +21,7 @@
 - [ ] `aeria-playground`: try and visualize Aeria projects on the browser
     - [ ] compile `*.aeria` and show js, ts, and errors output (similar to https://typescriptlang.org/play)
 
+---
 
 ## 3rd-party integrations
 
@@ -36,6 +38,7 @@
         - endpoints without rate limiting
     - [ ] generate a graph with `aeria-inspector`
 
+---
 
 ## Institutional
 
