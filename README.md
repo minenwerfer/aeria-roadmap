@@ -2,8 +2,8 @@
 
 ## Core
 
-- [ ] `@aeria-ui/web`
-    - [ ] add `v-mask` directive (no longer available since `maska` dependency was dropped)
+- [x] `@aeria-ui/web`
+    - [x] add `v-mask` directive (no longer available since `maska` dependency was dropped)
 
 ---
 
@@ -26,7 +26,7 @@
 ## 3rd-party integrations
 
 - [ ] OpenAPI (Swagger)
-    - generate a `swagger.json` from data reflected from the backend
+    - [ ] generate a `swagger.json` from data reflected from the backend
 - [ ] OpenTelemetry
 - [ ] NextJS
     - [ ] create a SSR-compliaint `AeriaForm` component that renders a form from data reflected from the backend, same way as in `aeria-ui`
